@@ -45,7 +45,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-응호2       </a>
+22222      </a>
         </div>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
@@ -59,8 +59,8 @@ export default function Home() {
             aria-hidden
             src="https://nextjs.org/icons/file.svg"
             alt="File icon"
-            width={16}
-            height={16}
+            width={33}
+            height={33}
           />
           Learn
         </a>
